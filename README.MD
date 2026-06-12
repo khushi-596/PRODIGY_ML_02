@@ -73,19 +73,13 @@ The project uses the Mall Customers Dataset from Kaggle.
 ```text
 Customer_Segmentation_KMeans/
 
-│
-
 ├── data/
 
 │   └── Mall_Customers.csv
 
-│
-
 ├── notebook/
 
-│   └── customer_segmentation_kmeans.ipynb
-
-│
+│   └── prodigy_ml_02.ipynb
 
 ├── outputs/
 
@@ -95,17 +89,11 @@ Customer_Segmentation_KMeans/
 
 │   └── clustered_customers.csv
 
-│
-
 ├── model/
 
 │   └── kmeans_model.pkl
 
-│
-
 ├── README.md
-
-│
 
 └── requirements.txt
 ```
