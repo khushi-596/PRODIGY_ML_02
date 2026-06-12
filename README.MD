@@ -70,7 +70,7 @@ The project uses the Mall Customers Dataset from Kaggle.
 * Businesses can improve decision-making by focusing on specific customer groups.
 
 ## Project Structure
-
+```text
 Customer_Segmentation_KMeans/
 
 │
@@ -108,7 +108,7 @@ Customer_Segmentation_KMeans/
 │
 
 └── requirements.txt
-
+```
 ## Outputs
 
 ### Trained Model
